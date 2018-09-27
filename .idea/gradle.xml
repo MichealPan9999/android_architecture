@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/libcore-ui-release" />
             <option value="$PROJECT_DIR$/mvc" />
             <option value="$PROJECT_DIR$/mvp" />
+            <option value="$PROJECT_DIR$/mvvm" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

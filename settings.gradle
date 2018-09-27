@@ -1,1 +1,1 @@
-include ':app', ':libcore-ui-release', ':libcore-release', ':mvc', ':mvp'
+include ':app', ':libcore-ui-release', ':libcore-release', ':mvc', ':mvp', ':mvvm'
